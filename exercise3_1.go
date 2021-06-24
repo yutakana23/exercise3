@@ -1,5 +1,9 @@
 package main
 
-int main(){
+RomanNumberChange1(str []string) int{
+
+}
+
+main(){
 
 }
